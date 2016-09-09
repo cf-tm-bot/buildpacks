@@ -1,4 +1,4 @@
-# buildpacks-tracker-mirror
+# buildpacks
 
 This is an experimental  repository which aims are receiving mirrored github issues for the [buildpacks pivotal tracker](https://www.pivotaltracker.com/n/projects/1042066) stories.
 
